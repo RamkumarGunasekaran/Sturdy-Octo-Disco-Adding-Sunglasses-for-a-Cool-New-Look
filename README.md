@@ -1,5 +1,8 @@
 # Sturdy-Octo-Disco-Adding-Sunglasses-for-a-Cool-New-Look
 
+## NAME: RAMKUMAR G
+## REG NO: 212223220084
+
 Sturdy Octo Disco is a fun project that adds sunglasses to photos using image processing.
 
 Welcome to Sturdy Octo Disco, a fun and creative project designed to overlay sunglasses on individual passport photos! This repository demonstrates how to use image processing techniques to create a playful transformation, making ordinary photos look extraordinary. Whether you're a beginner exploring computer vision or just looking for a quirky project to try, this is for you!
